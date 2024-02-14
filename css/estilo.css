@@ -1,0 +1,10 @@
+a{
+    color: red;
+}
+.clase_desarrollo_web{
+    color: chartreuse;
+}
+.texto .clase_desarrollo_web{color: chartreuse;}
+.texto{
+    font-family: arial;
+}
